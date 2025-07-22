@@ -1,4 +1,7 @@
-![Krishna Nand Yadav GitHub Banner](./knygit.jpeg)
+<p align="center">
+  <img src="./knygit.jpeg" alt="Krishna Nand Yadav GitHub Banner" width="100%">
+</p>
+
 
 
 ### Hi, I'm Krishna 👋
