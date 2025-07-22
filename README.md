@@ -1,4 +1,4 @@
-<img src="https://github.com/yourusername/yourrepo/blob/main/yourimagename.png?raw=true" alt="knygtbn.jpeg" width="100%" />
+<img src="https://github.com/yk2985/yk2985/blob/main/knygtbn.jpeg?raw=true" alt="Krishna GitHub Banner" width="100%" />
 
 ### Hi, I'm Krishna 👋
 
