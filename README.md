@@ -1,4 +1,5 @@
-<img src="https://github.com/yk2985/yk2985/blob/main/jpeg?raw=true" alt="knygit.jpeg" width="100%" />
+![Krishna Nand Yadav GitHub Banner](./knygit.jpeg)
+
 
 ### Hi, I'm Krishna 👋
 
