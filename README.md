@@ -11,4 +11,4 @@
 - 🔥 Projects I'm working on:
   - [My Portfolio Website](https://github.com/username/portfolio)
   - [To-Do List App](https://github.com/username/todo-app)
-- 📫 Reach me at: krishna@example.com | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at: krishnanandyadav771996@gmail.com@example.com | [LinkedIn](https://linkedin.com/in/yourprofile)
